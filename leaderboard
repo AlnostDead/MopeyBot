@@ -1,0 +1,11 @@
+$nomention
+$suppressErrors
+$authorIcon[$serverIcon]
+$author[$serverName[$guildID]'s leaderboard]
+$replaceText[$replaceText[$replaceText[$userLeaderboard[MC;asc];1.;🥇;1];2.;🥈;1];3.;🥉;1]
+$addTimestamp
+$color[ffd700]
+$thumbnail[$serverIcon]
+$onlyIf[$guildID!=;]
+$onlyIf[$toLowercase[$message]$replaceText[$replaceText[$replaceText[$toLowercase[$message];lb;==;1];leaderboard;==;1];$toLowercase[$message];!=;1]$replaceText[$replaceText[$toLowercase[$message];lb;lb;1];leaderboard;leaderboard;1];]
+$botListDescription[Shows current leaderboard]
