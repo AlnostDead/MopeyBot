@@ -31,9 +31,7 @@ No usage of data will happen and the data is not shared with any 3rd-party site 
 Stored Information¶
 The bot may store the following information automatically when being invited to a new Discord Server:
 
-user's id, username, avatar with embed messages bot replying to (bot does save in his data only user's id)
-id with the Server's ID as value.
-prefix with value m%
+user's id, username, avatar with bot's embed messages
 No other information outside of the above mentioned one will be stored.
 
 Updating Data¶
