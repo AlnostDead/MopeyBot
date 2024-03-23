@@ -60,4 +60,4 @@ Any direct connection to Discord or any of its Trademark objects is purely coinc
 ### No other information outside of the above mentioned one will be stored.
 
 ## Updating Data
-###The data may be updated when using specific features of the bot.
+### The data may be updated when using specific features of the bot.
