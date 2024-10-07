@@ -7,7 +7,7 @@
 
 ### The rules below are written for m!report command:
 
-###### 1. You will not write something that does not apply to the m%report command.
+###### 1. You will not write something that does not apply to the m!report command.
 The punishment may be a temporary ban on the user using the bot. The duration of the punishment will be indicated in the reason for blocking and may increase depending on the frequency of the violation
 
 ###### 2. You will not report everyone and without any evidence.
