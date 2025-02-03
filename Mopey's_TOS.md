@@ -61,6 +61,8 @@ Prefix: `m` (modifiable by mods)
 
 `User ID`
 
+`Mopey User ID`
+
 `Username`
 
 `Server Nickname` (if applicable)
