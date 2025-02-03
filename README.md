@@ -1,4 +1,4 @@
-_Bot was made with ❤️ by `daaisukidayo` and it was based on the online game mope.io_
+_Bot was made with ❤️ by `daaisukidayo` and the bot was based on the online game mope.io_
 
 # COMMANDS
 
