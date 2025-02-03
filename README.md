@@ -2,9 +2,9 @@ _Bot was made with ❤️ by `daaisukidayo` which was based on the online game m
 
 # COMMANDS
 
-> Prefix: `m%`
+> Prefix: `m`
 
-All commands can be seen by `m%help` command!
+All commands can be seen by `mhelp` command!
 
 All commands require the following permissions:  
 - Read Messages
