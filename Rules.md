@@ -1,17 +1,16 @@
 # Rules
 
-### By inviting and/or using Mopey's bot, you accepting to follow this rule:
+### 🚫 No Command Spamming. 
 
-###### You won't spam all/one command(s) in a row to slow down the bot. The punishment will be permanent blocking from using the bot.
+###### Do not spam commands excessively to slow down the bot. Violating this rule will result in a permanent block from using the bot.
 
+## Rules for Using `m!report` Command
 
-### The rules below are written for m!report command:
+### 1️⃣ Stay On Topic.
+###### Do not use m!report for irrelevant messages. Misuse may result in a temporary ban from using the bot. The duration of the ban will be specified in the block reason and may increase with repeated violations.
 
-###### 1. You will not write something that does not apply to the m!report command.
-The punishment may be a temporary ban on the user using the bot. The duration of the punishment will be indicated in the reason for blocking and may increase depending on the frequency of the violation
+### 2️⃣ Do Not Report Users Without Evidence
+###### False or baseless reports will lead to a warning. After two warnings, a third violation will result in a temporary block from using the bot. If you continue breaking this rule after being unblocked, you will receive a permanent ban from the bot.
 
-###### 2. You will not report everyone and without any evidence.
-The punishment will only be a warning. If you have 2 warnings, then for the 3rd time you will be temporarily blocked from using the bot. The duration will be indicated in the reason for blocking. If you break the rule again after unblocking, the punishment will be permanent blocking from using the bot.
-
-###### 3. You will not use this command to insult any of the bot's creators. 
-The punishment will be permanent blocking.
+### 3️⃣ No Harassment of Bot Creators
+###### Using m!report to insult or harass the bot’s creators will result in an immediate and permanent ban from using the bot.
