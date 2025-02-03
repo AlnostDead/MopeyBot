@@ -1,63 +1,81 @@
-# Terms of Service
+# 📜 Terms of Service
 
-## Usage Agreement
+## 🔹 Usage Agreement
+By inviting the Discord Bot `Mopey#4550` (Unique Discord User ID: `693088307285983254` — hereinafter referred to as "the bot") to a Discord server ("server") or by using its features, you agree to these Terms of Service ("terms") and the Privacy Policy ("policy") outlined below.
 
-#### By inviting the Discord Bot *Mopey*#4550 (Unique discord user ID 693088307285983254. Hereby referred to as "bot") to a Discord Server ("server"), or by using its features, you agree to the below listed Terms of Service ("terms") and Privacy Policy ("policy").
-##### You may invite the bot to a server you have sufficient permissions for and use its sets of features on any server you share with it. This priviledge can be revoked and the bot be removed from the server at any time, should you violate these terms and/or policy, the Terms of Service and/or Privacy Policy of Discord Inc., or their Community Guidelines.
-#### Through inviting the bot, you agree to share data as described in the bot's policy. The intended use of this data is described in said policy.
+✅ You may invite the bot to any server where you have the required permissions and use its features on any shared server.
 
-## Intended Age
+❌ However, this privilege may be revoked if you violate these terms, the bot’s policy, or Discord’s Terms of Service, Privacy Policy, or Community Guidelines.
 
-#### Individuals of minimal age required to use Discord, as described in their Terms of Service may use the bot and its features.
+📌 By inviting the bot, you also agree to share data as described in the Privacy Policy. The intended use of this data is detailed in that section.
 
-## Affiliation
+## 🛑 Age Requirement
 
-#### The Bot is not affiliated with, supported or made by Discord Inc.
-Any direct connection to Discord or any of its Trademark objects is purely coincidental. We do not claim to have the copyright ownership of any of Discord's assets, trademarks or other intellectual property.
+ You must meet Discord’s minimum age requirement (as specified in their Terms of Service) to use the bot and its features.
 
-## Liability
+## ⚠️ Affiliation Disclaimer
+🔹 The bot is not affiliated with, endorsed by, or created by Discord Inc.
 
-#### The owner of the bot has faith in a users honesty and that the bot may only be used for its intended purpose and not in malicious ways against others or Discord Inc.
+🔹 Any resemblance to Discord’s trademarks, branding, or assets is purely coincidental.
 
-#### We reserve the right to update these Terms and policy at our own discretion, giving a 1 Week (7 days) period to opt out of the changed Terms and policy. You may opt out of these terms and policy by removing the bot from any server you have permission for and not using its features.
+🔹 We do not claim ownership of Discord’s intellectual property, trademarks, or assets.
 
-## Contact
+## ⚖️ Liability & Policy Changes
 
-#### People may get in contact through my discord `@daaisukidayo`, or through the official Support Discord of the Bot.
-#### Other ways of support may be provided but aren't guaranteed.
+🔸 The bot’s owner operates under the assumption that users will act honestly and use the bot for its intended purpose—not for malicious activities against other users or Discord Inc.
 
-# Privacy Policy
+🔄 We reserve the right to update these Terms and the Privacy Policy at any time. 
 
-## Usage of Data
-
-#### No usage of data will happen and the data is not shared with any 3rd-party site or service.
-
-## Stored Information
-
-### The bot may store the following information automatically when being invited to a new Discord Server:
-
-`prefix` with changeable value `m%`
-
-`gamemode` with value `default`
-
-`Mopecoins` with value `0`
+📢 Users will receive a 7-day (one-week) notice regarding any changes.
 
 
-### These your information the bot will show in his embedded message when you run any command:
+📌 To opt out of the updated terms, you must:
 
-`id`
+✔️ Remove the bot from any server you manage.
 
-`username`
+✔️ Cease using its features.
 
-`nickname`
+## 📩 Contact & Support
+📝 For support, you can reach out via:
 
-`avatar`
+📌 Discord: [@daaisukidayo]
 
-`Mopecoins`
+📌 Official Support Server: ([Link](https://discord.gg/FE4dqGD))
 
-`Bought packs`
+💡 Other support methods may be available but are not guaranteed.
 
-### No other information outside of the above mentioned one will be stored.
 
-## Updating Data
-### The data may be updated when using specific features of the bot.
+# 🔒 Privacy Policy
+### 🔹 Data Usage
+##### 🔸 The bot does not share any collected data with third-party sites or services.
+##### 🔸 Your data is stored securely and used only for bot functionality.
+
+## 📁 Stored Information
+When the bot is invited to a new Discord server, it automatically stores the following data:
+
+### 🛠 Server Settings:
+
+Prefix: `m` (modifiable by mods)
+
+### 👤 User Information (Displayed in Bot Responses):
+
+`User ID`
+
+`Username`
+
+`Server Nickname` (if applicable)
+
+`Avatar`
+
+`Mopecoins balance`
+
+`Purchased packs`
+
+`Raretry mode`
+
+❌ No other personal information is collected or stored beyond what is explicitly mentioned above.
+
+## 🔄 Data Updates
+⚙️ Stored data may be updated when users interact with specific bot features.
+
+🚀 We aim to provide a safe and seamless experience for all users!
